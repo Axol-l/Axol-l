@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Axol-l
-- 🌱 I’m currently learning c language.
+- 👋 Hi, I’m @Axol-l.
 - 💞️ Nice to meet you!
 
 <!---
